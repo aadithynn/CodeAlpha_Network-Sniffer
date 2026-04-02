@@ -1,6 +1,5 @@
 # 🔍 Basic Network Sniffer
-
-**CodeAlpha Cybersecurity Internship — Task 1**  
+  
 **Author:** Adithyan V  
 **Language:** Python 3 | **Library:** Scapy
 
@@ -8,7 +7,7 @@
 
 ## 📌 Overview
 
-A custom-built **Network Packet Sniffer** that captures and analyzes live network traffic in real time. Built with Python and Scapy as part of the CodeAlpha Cybersecurity Internship. Displays source/destination IPs, protocols, ports, and payload previews for every captured packet.
+A custom-built **Network Packet Sniffer** that captures and analyzes live network traffic in real time. Built with Python and Scapy as part of the Personal Cybersecurity Project. Displays source/destination IPs, protocols, ports, and payload previews for every captured packet.
 
 ---
 
@@ -46,8 +45,8 @@ pip install scapy
 
 ### Run
 ```bash
-git clone https://github.com/aadithynn/CodeAlpha_Network-Sniffer
-cd CodeAlpha_Network-Sniffer
+git clone https://github.com/aadithynn/aadithynn/python-network-sniffer
+cd aadithynn/python-network-sniffer
 
 # Must run as root to capture packets
 sudo python3 network_sniffer.py
@@ -59,7 +58,7 @@ sudo python3 network_sniffer.py
 
 ```
 ======================================================================
-        🔍 Basic Network Sniffer — CodeAlpha Internship
+        🔍 Basic Network Sniffer — Personal Cybersecurity Project
 ======================================================================
 ⚠️  Run as root/sudo on Kali Linux
 📡 Capturing live packets... Press Ctrl+C to stop.
@@ -103,7 +102,7 @@ Network Interface (promiscuous mode)
 
 ## ⚠️ Legal Disclaimer
 
-This tool is built for **educational purposes** as part of the CodeAlpha internship.  
+This tool is built for **educational purposes** as a personal cybersecurity project.  
 Only use on networks you own or have explicit permission to monitor.  
 Unauthorized packet sniffing is illegal in most jurisdictions.
 
@@ -114,4 +113,4 @@ Unauthorized packet sniffing is illegal in most jurisdictions.
 - [Scapy Documentation](https://scapy.readthedocs.io/)
 - [Wireshark — Packet Analysis Reference](https://www.wireshark.org/)
 - [TCP/IP Protocol Suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-- CodeAlpha Cybersecurity Internship Program
+- Personal Cybersecurity Project Program
