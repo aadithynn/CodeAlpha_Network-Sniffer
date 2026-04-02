@@ -45,8 +45,8 @@ pip install scapy
 
 ### Run
 ```bash
-git clone https://github.com/aadithynn/aadithynn/python-network-sniffer
-cd aadithynn/python-network-sniffer
+git clone https://github.com/aadithynn/Network-Sniffer
+cd Network-Sniffer
 
 # Must run as root to capture packets
 sudo python3 network_sniffer.py
